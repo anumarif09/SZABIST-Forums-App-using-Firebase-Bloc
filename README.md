@@ -7,18 +7,6 @@ Forum App is a discussion platform developed using Flutter, Firebase Authenticat
 The project follows a modular architecture by separating Firebase functionality into a local package, ensuring clean code organization and maintainability.
 
 ---
-
-# Group Members
-
-| Student Name          | Student ID |
-| --------------------- | ---------- |
-| Muhammad Arham Shaikh | 2380241    |
-| Anum Arif             | 2380227    |
-| Kirty Roy             | 2380234    |
-| Usman Nadeem          | 2380247    |
-
----
-
 # Features
 
 ## Authentication Module
